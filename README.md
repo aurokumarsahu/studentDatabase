@@ -1,4 +1,5 @@
 # studentDatabase
+Unzip the folder.
 
 This is a python django project
 
